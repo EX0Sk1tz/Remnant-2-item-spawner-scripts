@@ -1,0 +1,7 @@
+{
+  "infiniteHealth": false,
+  "infiniteStamina": false,
+  "infiniteAmmo": false,
+  "noFallDamage": false,
+  "enemyEsp": false
+}

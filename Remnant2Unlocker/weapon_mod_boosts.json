@@ -1,0 +1,57 @@
+{
+  "HotShot": {
+    "FireDuration": 10,
+    "FireBaseDamage": 100,
+    "ModDuration": 10
+  },
+  "Sandstorm": {
+    "CycloneDuration": 10,
+    "CycloneBaseRadius": 10,
+    "CycloneHomingRadius": 10,
+    "CycloneDPS": 100,
+    "CycloneDamageFrequency": 1
+  },
+  "ConcussiveShot": {
+    "BlastDamage": 10,
+    "MaxRange": 10,
+    "BaseKnockbackDistance": 10,
+    "AOERadius": 10,
+    "MaxCharges": 10
+  },
+  "Helix": {
+    "MaxCharges": 10,
+    "ImpactDamage": 10,
+    "SideWinderDamage": 10,
+    "SideWinderCount": 10
+  },
+  "StatisBeam": {
+    "Damage": 10,
+    "Duration": 10,
+    "RequiredHitDuration": 10
+  },
+  "VoltaicRondure": {
+    "PulseDelay": 0.01,
+    "OrbDamage": 10,
+    "ProjectileLifetime": 1,
+    "EffectRadius": 3,
+    "ShockDamage": 10,
+    "ShockDuration": 2
+  },
+  "Scrapshot": {
+    "MaxCharges": 10,
+    "BlastRadius": 10,
+    "DOTDamage": 10,
+    "CaltropDuration": 10,
+    "BleedDamage": 10,
+    "BleedDuration": 10
+  },
+  "RottedArrow": {
+    "MaxCharges": 10,
+    "WeakSpotMod": 10,
+    "ImpactDamage": 10,
+    "DOTDamage": 10,
+    "CloudDuration": 10,
+    "BlastRadius": 10,
+    "CloudDamagePerSecond": 10
+  }
+}

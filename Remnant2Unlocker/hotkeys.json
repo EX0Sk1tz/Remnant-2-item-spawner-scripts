@@ -1,0 +1,15 @@
+{
+  "alwaysOnTop": false,
+  "consoleKey": "F10",
+  "teleport": "V",
+  "destroyTarget": "F4",
+  "destroyLastSpawned": "None",
+  "destroyNearbySpawned": "None",
+  "replenishCooldowns": "F1",
+  "fastPlayerActions": "F2",
+  "wiki": "wiki.gg",
+  "movementSpeedMultiplier": 1,
+  "fovValue": 100,
+  "stackSize": 1,
+  "language": "en"
+}

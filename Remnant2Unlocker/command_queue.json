@@ -1,9 +1,13 @@
 {
-  "id": 1778155546428,
+  "id": 1785178875059,
   "action": "reload_items",
   "path": null,
   "name": null,
   "paths": null,
   "types": null,
-  "delayMs": 500
+  "delayMs": 500,
+  "dropQuantity": 1,
+  "stackSize": 1,
+  "itemLevel": 0,
+  "command": null
 }
